@@ -58,6 +58,9 @@
 
 ---
 
-### ⚡ GitHub Stats
-![Goyum's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyumsamuditha&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyumsamuditha&layout=compact&theme=tokyonight)
+### ⚡ GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=goyumsamuditha&show_icons=true&theme=tokyonight&hide_border=true" alt="Goyum's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyumsamuditha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
