@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Goyum Samuditha
 
 ### Data Analyst & Data Science
 *Bridging the gap between business requirements and data-driven solutions.*
