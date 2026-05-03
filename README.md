@@ -61,6 +61,9 @@
 ### ⚡ GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyumsamuditha&show_icons=true&theme=tokyonight&hide_border=true" alt="Goyum's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyumsamuditha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=goyumsamuditha&cc=000&tc=fff&ic=fff&bc=000" alt="Goyum's Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyumsamuditha&theme=tokyonight" alt="Goyum's Streak" />
 </p>
