@@ -1,31 +1,63 @@
-# Hi 👋, I'm Goyum Samuditha
+# Hi 👋, I'm Goyum Samuditha  
 
-### Data Analyst & Data Science
-*Bridging the gap between business requirements and data-driven solutions.*
-
----
-
-- 🔭 I’m currently working on **Senior Business Analyst**
-- 🎓 I’m currently pursuing my **MSc in Data Science**
-- 💻 Regularly building projects with **Python, AWS, and Streamlit**
-- ⚡ Fun fact: I love exploring weightlifting culture and fitness 🏋️
-- 📫 How to reach me: [Your Email]
-- 🔗 Portfolio: [https://goyumsamuditha.github.io/](https://goyumsamuditha.github.io/)
-
-### Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />]https://www.linkedin.com/in/goyum-samuditha/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9UAe%2BfBuRaWOnszbJ%2FHHkQ%3D%3D
-
-### Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
+### **Senior Business Analyst | Data Science Specialist | BI Enthusiast**  
+*Transforming complex data into actionable business intelligence and scalable digital workflows.*  
 
 ---
 
-### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+## 🚀 About Me
+- 🔭 **Currently Leading:** End-to-end process identification and digital transformation at **BitSlize Concepts**.
+- 🎓 **Advanced Learning:** Pursuing an **MSc in Data Science** at Coventry University, focusing on Machine Learning and Big Data.
+- 📊 **Proven Impact:** 3+ years of experience in telecom and tech environments, specializing in operational analytics and automated reporting.
+- 🤖 **AI-Driven:** Leveraging Claude, GitHub Copilot, and Gemini to accelerate analytical workflows.
+- 📍 **Based in:** Colombo, Sri Lanka.
+
+---
+
+## 🛠️ Technical Stack  
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | Python, R, SQL, MySQL, NoSQL |
+| **Data Science & ML** | Scikit-learn, BERT, NLP, Random Forest, Time-Series Analysis |
+| **BI & Visualization** | Power BI, Tableau, Streamlit |
+| **DevOps & Tools** | AWS, Docker, Git, WorkHub24, VS Code |
+| **Analytical Concepts** | Statistical Modeling, Regression, Sentiment Analysis, BPMN |
+
+---
+
+## 📂 Key Projects
+
+### 🤖 [Autonomous Automated Trading System (Agentic AI)](https://github.com/goyumsamuditha/Automated_Trading_Agent.git)
+*A cloud-native multi-agent system generating real-time signals for financial assets.*
+- **Architecture:** Orchestrated a four-agent workflow (Market Analyzer, News Retriever, RF Classifier, and Risk Manager).
+- **Cloud Pipeline:** Fully automated via **AWS Lambda** and **EventBridge** for daily execution.
+- **Infrastructure:** Managed data persistence with **AWS S3** and **RDS**, with a **Streamlit** dashboard hosted on **EC2**.
+- 
+
+### 📈 [Social Media Sentiment & Stock Price Impact Analysis](https://github.com/goyumsamuditha/Final-Year-Project.git)
+- Developed a multi-stage NLP pipeline using **Python (NLTK, TextBlob)** to scrape and analyze Twitter sentiment.
+- Built a **Random Forest** model achieving **94.11% accuracy** in predicting stock oscillations on the Colombo Stock Exchange.
+
+
+
+
+---
+
+## 🏆 Certifications
+- **IBM:** Data Science Foundations, Big Data Foundations, Data Analysis/Visualization using Python.
+- **CISCO:** Python Essentials, Data Analytics Essentials, Introduction to IoT & Cybersecurity.
+- **NIBM:** Advanced Certificate in Data Analytics.
+
+---
+
+## 🤝 Connect with Me
+- 🌐 **Portfolio:** [goyumsamuditha.github.io](https://goyumsamuditha.github.io/)
+- 💼 **LinkedIn:** [linkedin.com/in/goyum-samuditha](https://www.linkedin.com/in/goyum-samuditha)
+- 📧 **Email:** [goyumsamuditha@gmail.com](mailto:goyumsamuditha@gmail.com)
+
+---
+
+### ⚡ GitHub Stats
+![Goyum's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyumsamuditha&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goyumsamuditha&layout=compact&theme=tokyonight)
