@@ -56,6 +56,9 @@
 - 💼 **LinkedIn:** [linkedin.com/in/goyum-samuditha](https://www.linkedin.com/in/goyum-samuditha)
 - 📧 **Email:** [goyumsamuditha@gmail.com](mailto:goyumsamuditha@gmail.com)
 
+  
+  <img width="1983" height="793" alt="linkedin coverimage" src="https://github.com/user-attachments/assets/e440da35-6ac4-43df-ac40-2caac34d0d32" />
+
 ---
 
 ### ⚡ GitHub Activity
